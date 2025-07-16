@@ -1,4 +1,4 @@
 # manish
-my first repository
+My first repository
 <br>
 Author-Manish majhi
